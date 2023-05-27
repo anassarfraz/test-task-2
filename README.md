@@ -1,4 +1,4 @@
-# test-task-2
+# Test-Task-2
 # MyProducts API
 
 This is a Node.js application that fetches data from the fakestoreapi and serves it via the `/api/myproducts` endpoint.
